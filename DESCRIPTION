@@ -1,11 +1,10 @@
 Package: MATH4753LAB4
 Type: Package
-Title: What the Package Does (Title Case)
+Title:Z function for Math 4753
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Author: Alberto Liu
+Maintainer: The package maintainer is Alberto Liu <Alberto.liu@ou.edu>
+Description: returns Z value of vector
+License: MIT
 Encoding: UTF-8
 LazyData: true
